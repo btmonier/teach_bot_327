@@ -2,7 +2,7 @@
 Title:         BOT 327L - Notes - Week 06
 Author:        Brandon Monier
 Created:       2018-02-26 at 14:31:33
-Last Modified: 2018-02-26 at 14:41:20
+Last Modified: 2018-02-26 at 15:31:27
 ---
 
 # Overview
@@ -32,3 +32,14 @@ Last Modified: 2018-02-26 at 14:41:20
    biological nitrogen fertilizer in crop production over symbiotic nitrogen
    fixation.
 
+# Additional notes
+* This concept may seem complicated to a lot of students...
+* Some follow up questions that could be brought up...
+    - How do we apply cyanobacteria?
+    - **Where** do we apply cyanobacteria?
+    - Advantages of leaf and root inoculation?
+    - Potential problems with leaf applications?
+    - How do we get it to stay on the leaf? In the leaf?
+    - 
+
+ 
