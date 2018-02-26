@@ -2,7 +2,7 @@
 Title:         BOT 327L - Notes - Week 06
 Author:        Brandon Monier
 Created:       2018-02-26 at 14:31:33
-Last Modified: 2018-02-26 at 15:31:27
+Last Modified: 2018-02-26 at 15:35:20
 ---
 
 # Overview
@@ -38,8 +38,7 @@ Last Modified: 2018-02-26 at 15:31:27
     - How do we apply cyanobacteria?
     - **Where** do we apply cyanobacteria?
     - Advantages of leaf and root inoculation?
-    - Potential problems with leaf applications?
+    - Potential problems with leaf and root inoculation?
     - How do we get it to stay on the leaf? In the leaf?
-    - 
 
  
