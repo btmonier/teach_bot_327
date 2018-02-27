@@ -2,7 +2,7 @@
 Title:         BOT 327L - Notes - Week 06
 Author:        Brandon Monier
 Created:       2018-02-26 at 14:31:33
-Last Modified: 2018-02-26 at 15:35:20
+Last Modified: 2018-02-27 at 12:18:55
 ---
 
 # Overview
@@ -33,7 +33,6 @@ Last Modified: 2018-02-26 at 15:35:20
    fixation.
 
 # Additional notes
-* This concept may seem complicated to a lot of students...
 * Some follow up questions that could be brought up...
     - How do we apply cyanobacteria?
     - **Where** do we apply cyanobacteria?
