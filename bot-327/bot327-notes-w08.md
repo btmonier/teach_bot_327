@@ -25,3 +25,8 @@ the students will conduct the first part of the experiment.
     - Measure leaf length
     - Count leaf number
     - Apply respective nutrient solutions for each treatment
+* **Also** some plants have been heat stressed from last week. There has been
+  some damage to the plants. Therefore, make sure the students:
+    - Plant health
+    - Number of leaves that are dead
+    - Number of leaves that are yellow
